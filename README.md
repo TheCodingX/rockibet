@@ -1,6 +1,6 @@
 # RockiBet
 
-Casa de apuestas en joda para la final Nacho vs Benny. Página estática + Firebase Realtime Database.
+Casa de apuestas en joda para la final Nacho vs Beni. Página estática + Firebase Realtime Database.
 
 ## Puesta en marcha
 
