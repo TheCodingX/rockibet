@@ -3,11 +3,8 @@
 // 2) Asegurate de que incluya databaseURL (Realtime Database → copiá la URL que termina en .firebaseio.com o .firebasedatabase.app).
 window.ROCKIBET_CONFIG = {
   firebase: {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    appId: ""
+    databaseURL: "https://directlink-79375-default-rtdb.firebaseio.com",
+    projectId: "directlink-79375"
   },
   // PIN para entrar a la mesa de control (link "Acceso banca" al pie de la página).
   adminPin: "rocki",
